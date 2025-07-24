@@ -1,2 +1,2 @@
 # cousera
-My learning journey on Frontend development
+My learning journey on Frontend development on Coursera
